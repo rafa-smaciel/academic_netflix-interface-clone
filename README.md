@@ -31,7 +31,6 @@ This project was developed with the following technologies:
 
 ## ⚙ Settings
 - open with live server
-- alt + shift + seta para baixo
 - https://www.themoviedb.org
 - https://fontawesome.com/v6.0/icons
 - https://owlcarousel2.github.io/OwlCarousel2/
